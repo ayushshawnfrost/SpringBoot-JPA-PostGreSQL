@@ -1,5 +1,5 @@
 # Job Application Tracker
-
+(Please check master branch for updated code base)
 ## Overview
 
 The Job Application Tracker is a Spring Boot application designed to help users manage and track their job applications effectively. The application allows users to add, update, and delete job applications, add notes to each application, upload related documents, and set reminders for follow-ups. The project uses a PostgreSQL database to store data and includes a RESTful API to interact with the application.
