@@ -21,7 +21,9 @@ The Job Application Tracker is a Spring Boot application designed to help users 
 - **Lombok**: To reduce boilerplate code.
 - **Docker**: For containerization and easy deployment of PostgreSQL and pgAdmin.
 
-## Project Structure
+## ER Diagram
+![job_application_tracker_er_diagram](https://github.com/ayushshawnfrost/SpringBoot-JPA-PostGreSQL/assets/23500476/3825e62d-7eb2-442f-9a5c-522be133f008)
+
 ## Getting Started
 
 ### Prerequisites
